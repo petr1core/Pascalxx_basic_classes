@@ -1,0 +1,8 @@
+set(main ${subProj}_main)
+add_executable(${main} ${main}.cpp)
+target_link_libraries(${main} PRIVATE ${subProj})
+set_target_properties(${main} PROPERTIES
+    FOLDER ${subProj}
+    OUTPUT_NAME "${main}"
+    PROJECT_LABEL "${main}"
+    RUNTIME_OUTPUT_DIRECTORY "../")
