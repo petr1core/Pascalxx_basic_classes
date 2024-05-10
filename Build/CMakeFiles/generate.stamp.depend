@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+D:/Program files/CMake/share/cmake-3.29/Modules/CMakeCInformation.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/CMakeCXXInformation.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/CMakeGenericSystem.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/CMakeRCInformation.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/Compiler/MSVC-C.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/Compiler/MSVC-CXX.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/Compiler/MSVC.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/Platform/Windows.cmake
+D:/Program files/CMake/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake
+E:/Files/Git/Pascalxx_basic_classes/Build/CMakeFiles/3.29.0/CMakeCCompiler.cmake
+E:/Files/Git/Pascalxx_basic_classes/Build/CMakeFiles/3.29.0/CMakeCXXCompiler.cmake
+E:/Files/Git/Pascalxx_basic_classes/Build/CMakeFiles/3.29.0/CMakeRCCompiler.cmake
+E:/Files/Git/Pascalxx_basic_classes/Build/CMakeFiles/3.29.0/CMakeSystem.cmake
+E:/Files/Git/Pascalxx_basic_classes/CMakeLists.txt

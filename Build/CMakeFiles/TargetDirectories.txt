@@ -1,0 +1,15 @@
+E:/Files/Git/Pascalxx_basic_classes/Build/CMakeFiles/ALL_BUILD.dir
+E:/Files/Git/Pascalxx_basic_classes/Build/CMakeFiles/ZERO_CHECK.dir
+E:/Files/Git/Pascalxx_basic_classes/Build/gtest/CMakeFiles/gtest.dir
+E:/Files/Git/Pascalxx_basic_classes/Build/SkipList/Main/CMakeFiles/SkipList_main.dir
+E:/Files/Git/Pascalxx_basic_classes/Build/SkipList/Src/CMakeFiles/SkipList.dir
+E:/Files/Git/Pascalxx_basic_classes/Build/SkipList/Test/CMakeFiles/SkipList_test.dir
+E:/Files/Git/Pascalxx_basic_classes/Build/PriorityQueue/Main/CMakeFiles/PriorityQueue_main.dir
+E:/Files/Git/Pascalxx_basic_classes/Build/PriorityQueue/Src/CMakeFiles/PriorityQueue.dir
+E:/Files/Git/Pascalxx_basic_classes/Build/PriorityQueue/Test/CMakeFiles/PriorityQueue_test.dir
+E:/Files/Git/Pascalxx_basic_classes/Build/HierarchyList/Main/CMakeFiles/HierarchyList_main.dir
+E:/Files/Git/Pascalxx_basic_classes/Build/HierarchyList/Src/CMakeFiles/HierarchyList.dir
+E:/Files/Git/Pascalxx_basic_classes/Build/HierarchyList/Test/CMakeFiles/HierarchyList_test.dir
+E:/Files/Git/Pascalxx_basic_classes/Build/D-heap/Main/CMakeFiles/Dheap_main.dir
+E:/Files/Git/Pascalxx_basic_classes/Build/D-heap/Src/CMakeFiles/Dheap.dir
+E:/Files/Git/Pascalxx_basic_classes/Build/D-heap/Test/CMakeFiles/Dheap_test.dir
