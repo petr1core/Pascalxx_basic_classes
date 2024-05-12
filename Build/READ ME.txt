@@ -1,0 +1,6 @@
+How to build:
+1. Open CMake-gui*, enter path to the project folder named "Pascalxx_basic_classes".
+2. For the build directory choose this folder.
+3. Press Configure >> Generate >> Open project. It will open the project via installed Microsoft Visual Studio.
+
+*made at CMake version 3.29.0
