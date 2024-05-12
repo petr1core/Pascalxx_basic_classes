@@ -1,0 +1,7 @@
+set(subProj Dheap) 
+set(test "${subProj}_test")
+
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/Lib)
+add_subdirectory(Main)
+add_subdirectory(Src)
+add_subdirectory(Test)
